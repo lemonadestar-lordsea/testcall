@@ -21,6 +21,4 @@ jobs:
       - id: dump
         uses: lemonadestar-lordsea/test@v1
         with:
-          source_repo: ''
-          source_branch: ''
-          destination_branch: ''
+          source_repo: 'https://github.com/lemonadestar-lordsea/SPT-Modules.git'
